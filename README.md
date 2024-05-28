@@ -1,15 +1,3 @@
----
-license: mit
-language:
-- uz
-metrics:
-- accuracy
-pipeline_tag: token-classification
-tags:
-- ner
-- uzbek_ner
-- ner_for_uzbek_language
----
 ## O'zbek tili uchun Named Entity Recognition (NER) modeli
 
 ### Model haqida
